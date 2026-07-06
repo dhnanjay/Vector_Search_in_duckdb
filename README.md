@@ -4,7 +4,7 @@ Welcome to this repository where we explore the intriguing world of vector searc
 
 This is the open-source, 2026 sequel to [Vector Search in Snowflake](https://github.com/dhnanjay/Vector_Search_in_Snowflake). Same clever theme, same "use what you already have" philosophy — rebuilt on a stack that installs in under a minute and runs entirely on your own machine, for free.
 
-Here is the blog entry on Medium: https://dhnanjay.medium.com/semantic-search-in-snowflake-a-journey-from-sql-to-vectors-5c5660a8c8b8
+Here is the blog entry on Medium: https://dhnanjay.medium.com/you-dont-need-a-vector-database-you-need-a-where-clause-e33407af215c?sharedUserId=dhnanjay
 
 ## Prerequisites
 
